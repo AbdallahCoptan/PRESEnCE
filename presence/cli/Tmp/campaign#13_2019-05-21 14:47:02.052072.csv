@@ -1,0 +1,5 @@
+STime,Disrubtion,Bench,No Operations,No Records,No Threads
+14,29,ycsb-mongodb,100,500,2
+18,99,ycsb-mongodb,100,300,2
+48,36,ycsb-mongodb,200,300,2
+93,38,ycsb-mongodb,200,500,2

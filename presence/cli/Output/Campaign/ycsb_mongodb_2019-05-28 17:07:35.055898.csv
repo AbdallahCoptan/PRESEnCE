@@ -1,0 +1,4 @@
+count,Date,ExpName,WorkLoad,No Operations,No Records,No_Threads,Runtime(ms),Thr(ops/sec),cleanup_lat(us),readFail_lat(us),Read_ReturnOk,Read_ReturnErr,read_lat(us),update_lat(us)
+0,28/05/2019,ycsb-mongodb,workloads/workloada,500,700,1,771.0,648.5084306095979,1671.0,NULL,258.0,NULL,1582.1279069767443,390.1694214876033
+1,28/05/2019,ycsb-mongodb,workloads/workloada,500,700,1,1257.0,397.77247414478916,2815.0,NULL,244.0,NULL,2280.2581967213114,1096.91015625
+2,28/05/2019,ycsb-mongodb,workloads/workloada,500,700,1,1151.0,434.4048653344918,3409.0,NULL,252.0,NULL,1705.2857142857142,1492.899193548387

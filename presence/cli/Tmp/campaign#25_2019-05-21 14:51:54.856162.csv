@@ -1,0 +1,19 @@
+STime,Disrubtion,Bench,No Operations,No Records,No Threads
+1,29,ycsb-mongodb,100,300,1
+2,70,ycsb-mongodb,400,300,1
+5,86,ycsb-mongodb,200,500,2
+11,97,ycsb-mongodb,400,500,2
+19,10,ycsb-mongodb,100,500,1
+21,11,ycsb-mongodb,200,700,1
+25,54,ycsb-mongodb,400,300,2
+38,90,ycsb-mongodb,200,300,1
+42,83,ycsb-mongodb,100,300,2
+55,13,ycsb-mongodb,400,700,2
+58,31,ycsb-mongodb,200,500,1
+59,47,ycsb-mongodb,200,300,2
+62,62,ycsb-mongodb,400,700,1
+64,36,ycsb-mongodb,100,700,2
+68,38,ycsb-mongodb,100,700,1
+74,84,ycsb-mongodb,400,500,1
+83,45,ycsb-mongodb,100,500,2
+97,75,ycsb-mongodb,200,700,2

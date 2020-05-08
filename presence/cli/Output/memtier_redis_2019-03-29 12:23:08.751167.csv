@@ -1,0 +1,2 @@
+count,Date,ExpName,No Requests,Parallel_con,WorkLoad_size,No_Threads,ops/sec,hits/sec,miss/sec,latency,TR: kb/sec
+0,29/03/2019,memtier-redis,1000,5,40,1,749.64,8.25,673.17,6.667,29.38

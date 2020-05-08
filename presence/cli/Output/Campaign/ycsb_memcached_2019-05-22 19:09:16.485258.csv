@@ -1,0 +1,5 @@
+count,Date,ExpName,WorkLoad,No Operations,No Records,No_Threads,Runtime(ms),Thr(ops/sec),cleanup_lat(us),readFail_lat(us),Read_ReturnOk,Read_ReturnErr,read_lat(us),update_lat(us)
+0,22/05/2019,ycsb-memcached,workloads/workloada,200,100,1,232.0,862.0689655172414,1747.0,NULL,103.0,NULL,522.6990291262136,1034.2577319587629
+1,22/05/2019,ycsb-memcached,workloads/workloada,200,100,1,200.0,1000.0,1601.0,NULL,92.0,NULL,466.8695652173913,791.5092592592592
+2,22/05/2019,ycsb-memcached,workloads/workloada,200,100,1,203.0,985.2216748768473,1564.0,NULL,99.0,NULL,695.2929292929293,556.9702970297029
+3,22/05/2019,ycsb-memcached,workloads/workloada,200,100,1,207.0,966.1835748792271,1929.0,NULL,108.0,NULL,453.44444444444446,916.9565217391304

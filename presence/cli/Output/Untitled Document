@@ -1,0 +1,2 @@
+pointer.writerow({'count':1,'Date':25/25,'ExpName':3,'WorkLoad':3,'No Operations':5,'No Records':7,'No_Threads':5,'Runtime(ms)':5,'Thr(ops/sec)':5,'cleanup_lat(us)':6,'readFail_lat(us)':'NULL','Read_ReturnOk':5,'Read_ReturnErr':'NULL','read_lat(us)':5,'update_lat(us)':6})
+

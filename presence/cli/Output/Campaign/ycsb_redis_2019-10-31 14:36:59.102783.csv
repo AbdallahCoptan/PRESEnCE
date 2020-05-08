@@ -1,0 +1,4 @@
+count,Date,ExpName,WorkLoad,No Operations,No Records,No_Threads,Runtime(ms),Thr(ops/sec),cleanup_lat(us),readFail_lat(us),Read_ReturnOk,Read_ReturnErr,read_lat(us),update_lat(us)
+0,31/10/2019,ycsb-redis,workloads/workloada,350,100,1,318.0,1100.6289308176101,110.0,NULL,165.0,NULL,731.660606060606,364.6702702702703
+1,31/10/2019,ycsb-redis,workloads/workloada,350,100,1,193.0,1813.4715025906735,137.0,NULL,177.0,NULL,408.76271186440675,199.52023121387282
+2,31/10/2019,ycsb-redis,workloads/workloada,350,100,1,183.0,1912.568306010929,106.0,NULL,182.0,NULL,366.2637362637363,190.0595238095238

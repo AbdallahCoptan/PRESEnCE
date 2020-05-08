@@ -1,0 +1,5 @@
+STime,Disrubtion,Bench,No Operations,No Records,No Threads
+6,20,ycsb-redis,500,700,1
+26,61,ycsb-redis,500,200,1
+54,41,ycsb-redis,1000,700,1
+57,27,ycsb-redis,1000,200,1

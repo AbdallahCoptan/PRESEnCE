@@ -1,0 +1,19 @@
+STime,Disrubtion,Bench,No Operations,No Records,No Threads
+0,85,ycsb-memcached,200,1000,1
+6,55,ycsb-memcached,100,400,1
+7,52,ycsb-memcached,500,1000,1
+22,43,ycsb-memcached,100,1000,2
+29,10,ycsb-memcached,100,100,1
+35,66,ycsb-memcached,500,400,2
+42,47,ycsb-memcached,100,1000,1
+50,80,ycsb-memcached,100,400,2
+57,22,ycsb-memcached,200,100,1
+58,89,ycsb-memcached,200,400,1
+62,36,ycsb-memcached,500,100,2
+64,88,ycsb-memcached,200,400,2
+67,46,ycsb-memcached,500,1000,2
+80,96,ycsb-memcached,200,100,2
+81,77,ycsb-memcached,100,100,2
+86,15,ycsb-memcached,500,400,1
+91,70,ycsb-memcached,500,100,1
+98,30,ycsb-memcached,200,1000,2

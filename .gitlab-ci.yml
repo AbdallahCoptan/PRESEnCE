@@ -1,0 +1,22 @@
+# -*- mode: yaml; -*-
+# Time-stamp: <Thu 2018-11-29 16:10 svarrette>
+###############################################
+# Gitlab CI configuration
+# See https://docs.gitlab.com/ce/ci/yaml/
+
+# https://hub.docker.com/_/python/
+image: python:2.7.15
+
+before_script:
+- apt-get update -q -y
+- python -V # Print out python version for debugging
+- pip install -r requirements.txt
+
+stages:
+- test
+
+job_test:
+  stage: test
+  script:
+  - echo "Running tests"
+  - python setup.py test

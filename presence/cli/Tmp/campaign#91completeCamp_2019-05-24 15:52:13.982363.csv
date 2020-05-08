@@ -1,0 +1,13 @@
+STime,Disrubtion,Bench,No Operations,No Records,No Threads
+21,73,ycsb-redis,500,200,1
+47,15,ycsb-redis,500,700,1
+47,37,ycsb-mongodb,1000,200,1
+52,57,ycsb-mongodb,1000,700,1
+53,98,ycsb-mongodb,500,200,1
+59,63,ycsb-redis,1000,200,1
+64,51,ycsb-memchached,1000,200,1
+72,62,ycsb-redis,1000,700,1
+78,52,ycsb-memchached,500,200,1
+82,65,ycsb-memchached,500,700,1
+85,72,ycsb-memchached,1000,700,1
+99,66,ycsb-mongodb,500,700,1

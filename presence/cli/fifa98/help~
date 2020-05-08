@@ -1,0 +1,10 @@
+>cd ita_public_tools/
+>make
+>ll bin
+>gzip -dc ../wc_day6_1.gz | bin/checklog
+>gzip -dc ../wc_day6_1.gz | bin/read 
+>gzip -dc ../wc_day6_1.gz | bin/recreate state/object_mappings.sort > output/recreat.out
+>ll state
+
+
+>file wc_day6_1

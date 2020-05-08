@@ -1,0 +1,6 @@
+count,Date,ExpName,DB Size,Parallel Clients,Num_Threads,Num_Transactions/client,#TransActuallyProcessed,TPS/incConn,TPS/excConn,Avg Latency/AllStatments(ms)
+0,02/04/2019,pgbench-postgreSQL,50 x 16MB,5,1,1000,5000.0,524.715848,526.543478,9.359656000000001
+1,02/04/2019,pgbench-postgreSQL,50 x 16MB,5,1,1000,5000.0,543.307709,545.192476,9.104435
+2,02/04/2019,pgbench-postgreSQL,50 x 16MB,5,1,1000,5000.0,541.29285,543.124698,9.116844
+3,02/04/2019,pgbench-postgreSQL,50 x 16MB,5,1,1000,5000.0,529.807163,531.612044,9.312244
+4,02/04/2019,pgbench-postgreSQL,50 x 16MB,5,1,1000,5000.0,524.971972,526.782241,9.405095000000001

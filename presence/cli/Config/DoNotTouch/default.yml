@@ -1,0 +1,2 @@
+configdir:
+  dir: !!python/unicode 'Config/config.yml'
