@@ -2,7 +2,7 @@ backports-abc==0.5
 bumpversion==0.5.3
 Click==7.0
 filelock==3.0.10
-Jinja2==2.10
+Jinja2==2.11.3
 livereload==2.6.0
 Markdown==3.0.1
 MarkupSafe==1.1.0
