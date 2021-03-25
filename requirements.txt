@@ -11,7 +11,7 @@ pluggy==0.8.0
 py==1.7.0
 ruamel.yaml==0.15.73
 dpkt==1.9.2
-PyYAML==3.13
+PyYAML==5.4
 singledispatch==3.4.0.3
 six==1.11.0
 toml==0.10.0
